@@ -69,6 +69,12 @@ Al abrir la caja encontrarás el manaul, y debajo de el, todas las partes mecán
 <br>
 
 <p align="center">
+  <img src="https://github.com/RocketLauncherCDMX/EasyFinderDS2/blob/f4061440d441a479aadbc70103c1a6caa150f01f/box_back.png" alt="Caja back" width="780"/>
+</p>
+
+<br>
+
+<p align="center">
   <img src="https://github.com/RocketLauncherCDMX/EasyFinderDS2/blob/ba16052470257aa8e4629180be07fa4644e705ee/box_pieces.png" alt="Espuma con componentes" width="780"/>
 </p>
 
