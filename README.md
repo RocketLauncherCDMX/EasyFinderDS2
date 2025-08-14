@@ -50,7 +50,7 @@ Este kit incluye:
 
 <br>
 
-[Manual de ensamble EasyFinder DS2](https://github.com/RocketLauncherCDMX/MiniBotDS2/releases/download/V1.0/MiniBotDS2_manual_completo.pdf)
+[Manual de ensamble EasyFinder DS2](https://github.com/RocketLauncherCDMX/EasyFinderDS2/releases/download/V1.0/EasyFinderDS2_manual_V1.0.pdf)
 
 <br>
 
