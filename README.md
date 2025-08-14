@@ -3,7 +3,7 @@
 ### Te presentamos a EasyFinder DS2, un kit para armar un montacargas con orugas, sensor de distancia, pinza elevable y totalmente programable.
 
 <p align="center">
-  <img src="https://github.com/RocketLauncherCDMX/MiniBotDS2/blob/134e7b23405e8d896ac98528fd9b899120c47dd7/MiniBotDS2_ilustracion.png" alt="MiniBotDS2 ilustracion" width="1080"/>
+  <img src="https://github.com/RocketLauncherCDMX/EasyFinderDS2/blob/95fa5b26cb25e9d44b34e164a92409a98d699e57/RENDER%20FINDER2%20CARTOON%20SOMBRA.png" alt="EasyFinderDS2 ilustracion" width="1080"/>
 </p>
 
 Este kit está pensado para que los pequeños desarrollen sus habilidades de construcción, robótica y programación. Dentro de la caja encontraras todo lo necesario para ensamblarlo, y podrás programarlo por medio del lenguaje de programación más popular para robots: Arduino, además, si aún no sabes nada sobre programación, ¡No te preocupes!, ya que es totalmente compatible con Nairda programming, un lenguaje de programación visual basado únicamente en bloques, así que bastará con que instales el programa para cualquier plataforma: MacOS, Windows, Android y pruebes los ejemplos que se incluyen. En poco tiempo serás capaz de hacer tus propios programas.
@@ -41,7 +41,7 @@ Este kit incluye:
 <br>
 
 <p align="center">
-  <img src="https://github.com/RocketLauncherCDMX/MiniBotDS2/releases/download/V1.0/MiniBotDS2_medidas.png" alt="Medidas Minibot DS2" width="780"/>
+  <img src="https://github.com/RocketLauncherCDMX/EasyFinderDS2/blob/95fa5b26cb25e9d44b34e164a92409a98d699e57/Manual%20de%20ensamble/EasyFinderDS2_manual_12.png" alt="Medidas EasyFinder DS2" width="780"/>
 </p>
 
 <br>
