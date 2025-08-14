@@ -50,7 +50,7 @@ Este kit incluye:
 
 <br>
 
-[Manual de ensamble MiniBot DS2](https://github.com/RocketLauncherCDMX/MiniBotDS2/releases/download/V1.0/MiniBotDS2_manual_completo.pdf)
+[Manual de ensamble EasyFinder DS2](https://github.com/RocketLauncherCDMX/MiniBotDS2/releases/download/V1.0/MiniBotDS2_manual_completo.pdf)
 
 <br>
 
@@ -81,7 +81,7 @@ Al abrir la caja encontrarás el manaul, y debajo de el, todas las partes mecán
 ---
 ## TUXEDO 18650
 
-El corazón de Minibot DS2 es la placa Tuxedo 18650, la cual tiene un microcontrolador de 32 bits ESP32, potencia de sobra para manejar las entradas y salidas, conectividad bluetooth y Wifi, control de los motores, LEDs, botones y buzzer.
+El corazón de EasyFinder DS2 es la placa Tuxedo 18650, la cual tiene un microcontrolador de 32 bits ESP32, potencia de sobra para manejar las entradas y salidas, conectividad bluetooth y Wifi, control de los motores, LEDs, botones y buzzer.
 
 <p align="center">
   <img src="https://github.com/RocketLauncherCDMX/MiniBotDS2/blob/51f389f2e7053ad8fde13cf00cd0fa613a119678/Tuxedo18650_V1.0_noSwitch.png" alt="Tuxedo 18650 frente" width="480"/>
@@ -109,7 +109,7 @@ Toda la información necesaria para utilizar la **Tuxedo 18650** la encontrarás
 
 ## Programando tu EasyFinder DS2 en Arduino
 
-Si ya seguiste las instrucciones del manual para ensamblar tu robot, y conectaste todo como se indica, entonces es hora de programarlo. El MiniBot DS2 trae un programa muy sencillo de ejmplo, que funciona por medio de comandos Seriales enviados desde la computadora por medio de USB. Para poder probarlo es necesario tener el programa Arduino instalado en tu computadora. Puedes seguir los siguientes pasos para su instalación:
+Si ya seguiste las instrucciones del manual para ensamblar tu robot, y conectaste todo como se indica, entonces es hora de programarlo. El EasyFinder DS2 trae un programa muy sencillo de ejemplo, que funciona por medio de comandos Seriales enviados desde la computadora por medio de USB. Para poder probarlo es necesario tener el programa Arduino instalado en tu computadora. Puedes seguir los siguientes pasos para su instalación:
 
 <br>
 
@@ -127,7 +127,7 @@ Posteriormente, deberás instalar el core del microcontrolador ESP32 para tener 
 
 ---
 
-En el siguiente link puedes descargar los programas de ejemplo para hacer las pruebas en el Minibot y puedas comenzar a entender como funciona cada una de sus partes 
+En el siguiente link puedes descargar los programas de ejemplo para hacer las pruebas en el EasyFinder DS2 y puedas comenzar a entender como funciona cada una de sus partes 
 
 <br>
 
